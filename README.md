@@ -1,5 +1,9 @@
 # primeiro-projeto
 
+Meu primeiro (mini)projeto em Vue.js.
+
+Feito durante a preparação para o Hackathon Decola Luna da Iteris.
+
 ## Project setup
 ```
 npm install
